@@ -1,0 +1,69 @@
+File Manifest for ICPSR 31181
+
+Sutton-Tyrrell, Kim, Faith Selzer, MaryFran R. (Mary Francis Roy) Sowers,
+Joel S. Finkelstein, Lynda H. Powell, Ellen B. Gold, Gail A. Greendale,
+Gerson Weiss, and Karen A. Matthews. Study of Women's Health Across the
+Nation (SWAN), 2002-2004: Visit 06 Dataset. ICPSR31181-v3. Ann Arbor, MI:
+Inter-university Consortium for Political and Social Research
+[distributor], 2025-06-30. http://doi.org/10.3886/ICPSR31181.v3
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    31181-descriptioncitation.pdf       -       -         -       2025-06-30  -
+
+    31181-related_literature.txt        -       -         -       daily       -
+
+    31181-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 Study of Women's Health Across the Nation (SWAN), 2002-2004: Visit
+06 Dataset
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    31181-0001-Codebook-ICPSR.epub      -       -         -       2025-06-30  783ad3e58bf82b5aa83b4a1d2498901c
+
+    31181-0001-Codebook-ICPSR.pdf       -       -         -       2025-06-30  3b7afd37a17db002c72d9988c743cb2c
+
+    31181-0001-Codebook-PI.pdf          -       -         -       2025-06-30  a122a1ed805b52462cd74e2d7077f473
+
+    31181-0001-Data.dta                 -       2,448     948     2025-06-30  617f2329af97c84f1401f048fce5386a
+
+    31181-0001-Data.rda                 -       2,448     948     2025-06-30  c587e53c0448fec4eccd0e4e050a982a
+
+    31181-0001-Data.sav                 -       2,448     948     2025-06-30  3652ec7ff40f21cd196e722abd02cfee
+
+    31181-0001-Data.stc                 -       2,448     948     2025-06-30  51319b8d44f33404eb9df78f574da65a
+
+    31181-0001-Data.tsv                 -       2,448     948     2025-06-30  60d761d5c66b5f51cdae223dcd3834ed
+
+    31181-0001-Data.txt                 3674    2,448     948     2025-06-30  f10fcaf207ee4b7f7a4dab84b5c36269
+
+    31181-0001-Documentation-SWAN_Publications.pdf -       -         -       2025-06-30  481e91ee8114d07e06ec8eed0a7a4475
+
+    31181-0001-Setup.dct                -       -         -       2025-06-30  4738fc2e47326bbcabf136dbb0df9a0e
+
+    31181-0001-Setup.do                 -       -         -       2025-06-30  d40ed117bd3c469aa201c183ed98888f
+
+    31181-0001-Setup.sas                -       -         -       2025-06-30  cfbf16685c95226da24fb68cdb5def64
+
+    31181-0001-Setup.sps                -       -         -       2025-06-30  0a298f5a684b10f6d2f0adeef2a3155a
+
+    31181-0001-Supplemental_syntax.do   -       -         -       2025-06-30  69c686d0e554a50334b0114416abf05c
+
+    31181-0001-Supplemental_syntax.sas  -       -         -       2025-06-30  3cb6b669c186fc244fd159518164a716
+
+
+Version History
+
+2025-06-30 This collection was updated by ICPSR to include SDA and ensure
+complete variable metadata; there are no changes to the data since the last
+version.  2018-11-13 The data collection was updated with revised missing
+values provided by the P.I.

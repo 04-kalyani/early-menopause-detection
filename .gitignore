@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment
+.env
+.env.local
+
+# Data (keep structure, ignore large files)
+datasets/*.xpt
+datasets/*.tsv
+datasets/*.csv
+!datasets/.gitkeep
+
+# Models
+models/saved_models/*.pkl
+models/saved_models/*.joblib
+models/results/*.png
+models/results/*.csv
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Preprocessed data
+data_processing/preprocessed/*.pkl
+data_processing/preprocessed/*.csv
+

@@ -1,0 +1,17 @@
+cd backend; python -m uvicorn app.main:app --port 8000 --reload
+
+#new terminal window
+cd frontend; npm run start
+# frontend wont autoload
+test@example.com"
+        test_password = "12345678"
+
+
+
+cd d:\menopause-detection\menopause-detection\backend
+python -m uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
+
+
+
+cd d:\menopause-detection\menopause-detection\frontend
+npm start
